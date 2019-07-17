@@ -32,7 +32,7 @@ setuptools.setup(
         "Programming Language :: Python :: 3.6",
         "License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)",
     ],
-    keywords='deepmd elasticsearch ',
+    keywords='deepmd elasticsearch json',
     install_requires=install_requires,    
        # entry_points={
        #   'console_scripts': [
